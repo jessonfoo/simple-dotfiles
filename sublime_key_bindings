@@ -1,0 +1,10 @@
+[
+// Rails ERB tags
+{ "keys": ["ctrl+shift+."], "command": "erb" },
+// Change syntax to Ruby
+{"keys": ["super+shift+r"], "command": "set_file_type",
+     "args": {"syntax": "Packages/Ruby/Ruby.tmLanguage"}
+}
+]
+
+
